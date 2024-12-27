@@ -25,3 +25,6 @@ DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,mql5.com
 DOMAIN-KEYWORD,metatrader
 DOMAIN-KEYWORD,mql5
+#Deepl
+DOMAIN-SUFFIX,deepl.com,PROXY
+DOMAIN-SUFFIX,deepl.co,PROXY
